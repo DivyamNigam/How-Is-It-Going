@@ -11,3 +11,7 @@ This is a Sales analysis project for comapny AntilQ Hardware a Indian company wh
 6. Designed dashboard for showing sales.
 7. Total sale, quantity of items, provinces with most sales with time duration.
 8. Final product
+
+![Screenshot 2024-05-21 224415](https://github.com/DivyamNigam/Power_Bi_Dashboard_Antliq_Sales/assets/160534844/7c3df28c-cffd-4d45-9625-4a600f69e49a)
+![Screenshot 2024-05-21 224429](https://github.com/DivyamNigam/Power_Bi_Dashboard_Antliq_Sales/assets/160534844/87fb24ec-2d5a-453e-8a11-30e044aa44d1)
+![Screenshot 2024-05-21 224359](https://github.com/DivyamNigam/Power_Bi_Dashboard_Antliq_Sales/assets/160534844/84a03f81-fc6d-4488-9926-47c2f77a83ca)
